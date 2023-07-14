@@ -1,0 +1,19 @@
+.btn{
+    cursor: pointer;
+    padding: 1.325rem 5rem;
+    font-size: 25px;
+    margin: 20px;
+    border-radius: 0;
+    border: 1px solid rgb(24, 23, 23);
+    background-color: blue;
+    color: #fff;
+}
+.btn:hover{
+    background-color: green;
+    border:1px solid rgb(0, 0, 0);
+    color: #fff;
+}
+h1{
+    font-size: 5rem;
+    font-weight: 900;
+}
